@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NestedFragments</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_add">Add</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="next">Next Fragment</string>
+    <string name="title_details">Details</string>
+    <string name="title_fragment">This is %s Fragment</string>
+</resources>
